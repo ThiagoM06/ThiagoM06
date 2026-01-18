@@ -94,7 +94,7 @@ Me chamo Thiago Martins Caldeira, tenho 19 anos e sou natural de Manaus/AM, mas 
     title="Unreal Engine"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original-wordmark.svg" 
+    src="https://img.icons8.com/color/48/unreal-engine.png" 
 />
 
 <br/>
