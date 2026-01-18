@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Thiago Martins Caldeira
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FullStack | Desenvolvedor Unreal`**
 
-Me chamo Thiago Martins Caldeira, tenho 19 anos e sou natural de Manaus/AM, mas resido atualmente em Viçosa/MG. Sou desenvolvedor fullstack com experiência no desenvolvimento de aplicações web, atuando tanto na criação de interfaces quanto na implementação de backend e integração de APIs. Tenho interesse por software engineering, segurança da informação, estruturação de sistemas e aplicações voltadas para blockchain. Estou sempre buscando evoluir tecnicamente, participar de novos projetos e aplicar na prática tudo o que aprendo no dia a dia do desenvolvimento.                           
+Me chamo Thiago Martins Caldeira, tenho 19 anos e sou natural de Manaus/AM, mas resido atualmente em Viçosa/MG. Sou desenvolvedor fullstack com experiência no desenvolvimento de aplicações web, atuando tanto na criação de interfaces quanto na implementação de backend e integração de APIs. Tenho interesse por software engineering, segurança da informação e também por desenvolvimento com Unreal Engine, explorando a criação de aplicações interativas e experiências digitais. Estou sempre buscando evoluir tecnicamente, participar de novos projetos e aplicar na prática tudo o que aprendo no dia a dia do desenvolvimento.
 
 ---
 
@@ -58,27 +58,11 @@ Me chamo Thiago Martins Caldeira, tenho 19 anos e sou natural de Manaus/AM, mas 
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Tailwind" 
     title="Tailwind"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
 <img 
     align="left" 
@@ -96,17 +80,31 @@ Me chamo Thiago Martins Caldeira, tenho 19 anos e sou natural de Manaus/AM, mas 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="C++" 
+    title="C++"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Unreal Engine" 
+    title="Unreal Engine"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" 
+/>
 
 <br/>
 <br/>
 
 ### 📊 Estatísticas
 
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoM06&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoM06&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/>
