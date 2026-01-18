@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Thiago Martins Caldeira
 
-**`Desenvolvedor FullStack | Desenvolvedor Unreal`**
+**`Desenvolvedor FullStack | Unreal`**
 
 Me chamo Thiago Martins Caldeira, tenho 19 anos e sou natural de Manaus/AM, mas resido atualmente em Viçosa/MG. Sou desenvolvedor fullstack com experiência no desenvolvimento de aplicações web, atuando tanto na criação de interfaces quanto na implementação de backend e integração de APIs. Tenho interesse por software engineering, segurança da informação e também por desenvolvimento com Unreal Engine, explorando a criação de aplicações interativas e experiências digitais. Estou sempre buscando evoluir tecnicamente, participar de novos projetos e aplicar na prática tudo o que aprendo no dia a dia do desenvolvimento.
 
