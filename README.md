@@ -106,5 +106,5 @@ Me chamo Thiago Martins Caldeira, tenho 19 anos e sou natural de Manaus/AM, mas 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=ThiagoM06&show_icons=true&theme=radical"
 />
